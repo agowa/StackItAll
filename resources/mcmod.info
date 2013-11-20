@@ -1,0 +1,19 @@
+[
+{
+  "modid": "StackItAll",
+  "name": "StackItAll",
+  "version": "1.0.0",
+  "mcversion": "1.6.4",
+  "description": "Stack everything up to 64",
+  "credits": "Created by agowa338",
+  "logoFile": "/assets/buildcraft/logo.png",
+  "url": "",
+  "updateUrl": "",
+  "authors": [ "agowa338" ],
+  "parent":"",
+  "screenshots": [],
+  "dependencies": [
+     "mod_MinecraftForge"
+  ]
+}
+]
