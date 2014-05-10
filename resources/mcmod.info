@@ -6,14 +6,12 @@
   "mcversion": "1.6.4",
   "description": "Stack everything up to 64",
   "credits": "Created by agowa338",
-  "logoFile": "/assets/buildcraft/logo.png",
+  "logoFile": "",
   "url": "",
   "updateUrl": "",
   "authors": [ "agowa338" ],
   "parent":"",
   "screenshots": [],
-  "dependencies": [
-     "mod_MinecraftForge"
-  ]
+  "dependencies": []
 }
 ]
